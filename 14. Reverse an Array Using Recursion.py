@@ -39,7 +39,7 @@ arr_iterative = arr.copy()
 reverse_array_iterative(arr_iterative, left, right)
 print("Iterative:", arr_iterative)
 
-# Slicing
+# Slicing approach
 arr_slicing = arr.copy()
 reverse_array_slicing(arr_slicing, left, right)
 print("Slicing:", arr_slicing)
