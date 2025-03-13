@@ -1,4 +1,4 @@
-def linearSearch(n: int, num: int, arr: [int]) -> int:
+def linearSearch(arr,target):
     """
     Performs a linear search in the given array.
 
@@ -18,12 +18,12 @@ def linearSearch(n: int, num: int, arr: [int]) -> int:
     """
 
     for i in range(0, len(arr)):  # Iterate through the array
-        if arr[i] == num:  # Check if the current element matches the target
+        if arr[i] == target:  # Check if the current element matches the target
             return i  # Return the index if found
 
     return -1  # Return -1 if the target is not found
 
 # Example usage:
 arr = [10, 20, 30, 40, 50]
-num = 30
-print(linearSearch(len(arr), num, arr))  # Output: 2
+target = 30
+print(linearSearch(arr,target))  # Output: 2
