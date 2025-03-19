@@ -1,3 +1,8 @@
+'''
+https://docs.google.com/document/d/1N7eNCRduyhoui6hrHRXScWSFPsLUOD1Y56bVLP25BMg/edit?tab=t.0
+'''
+
+
 from typing import List
 
 def longest_consecutive_naive(arr: List[int]) -> int:
