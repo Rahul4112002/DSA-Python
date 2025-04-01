@@ -30,4 +30,4 @@ if __name__ == "__main__":
     nums = [3, 4, 5, 1, 2]
 
     print("Brute Force Result:", find_min_brute_force(nums))  # Output: 1
-    print("Binary Search Result:", find_min_binary(nums))  # Output: 1
+    print("Binary Search Result:", find_min_binary(nums))  # Output = 1
