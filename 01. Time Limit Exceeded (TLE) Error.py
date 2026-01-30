@@ -1,5 +1,8 @@
 '''
+Notes 
 Time Limit Exceeded (TLE) Error happens when your code takes too long to run. Every programming problem has a time limit, and if your solution is too slow, it gets a TLE.
+
+
 
 '''
 #Example:
