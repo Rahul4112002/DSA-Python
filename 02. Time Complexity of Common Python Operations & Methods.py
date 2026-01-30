@@ -1,3 +1,4 @@
+#Notes
 # **Time Complexity of Common Python Operations & Methods**
 
 # **List Operations**
