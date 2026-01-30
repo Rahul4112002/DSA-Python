@@ -1,4 +1,4 @@
-# Extraction of Digits Using Loops
+# Extraction of Digits Using Loops in python 
 
 # Input number
 n = int(input("Enter a number: "))
